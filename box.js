@@ -3,9 +3,9 @@ $(document).ready(function(){
 });
 $(function() {
 $(".resp-wysp").click(function() {
-    $(".wysp").show();
+    $(".wysp").animate(500).show();
 });
 $(".close").click(function() {
-    $(".wysp").hide();
+    $(".wysp").animate(500).hide();
 });
 });
