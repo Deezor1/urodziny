@@ -100,6 +100,24 @@ a:hover, a:focus{
   height: 33px;
   cursor: pointer;
 }
+.resp-rp{
+  position: absolute;
+  top: 447px;
+  left: 0px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 38px;
+  height: 26px;
+}
+.resp-pz{
+  position: absolute;
+  top: 422px;
+  left: 0px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 38px;
+  height: 26px;
+}
 .alert{
   height: 505px;
   width: 468px;
