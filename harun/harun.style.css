@@ -116,6 +116,15 @@ a:hover, a:focus{
   width: 25px;
   height: 32px;
 }
+.resp-zt{
+  position: absolute;
+  top: 386px;
+  left: 135px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 26px;
+  height: 26px;
+}
 .alert{
   height: 505px;
   width: 468px;
