@@ -1,0 +1,123 @@
+body{
+  background-color: #004F00 !important;
+  text-align: center;
+}
+h4{
+  text-align: center;
+  color: white !important;
+  padding: 0;
+}
+#demo {
+    background: url(https://i.imgur.com/j6kCqg4.png) no-repeat center center;
+    image-rendering: pixelated;
+    height: 505px;
+    width: 468px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    margin-top: 10px;
+}
+.back{
+  border: 2px solid white;
+  width: 100px !important;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline;
+  margin: 3px;
+  transition: .2s;
+  position: relative;
+  z-index: 1;
+}
+.back:hover{
+  background-color: #017501;
+  filter: drop-shadow(0px 0px 5px #ffffff);
+  -webkit-filter: drop-shadow(0px 0px 5px #ffffff);
+  -moz-filter: drop-shadow(0px 0px 5px #ffffff);
+}
+a{
+  position: relative;
+  text-decoration: none !important;
+  color: white !important;
+  width: 100px;
+  display: inline;
+}
+a:hover, a:focus{
+  color: white !important;
+}
+.resp-a{
+  position: absolute;
+  top: 0px;
+  left: 233px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 26px;
+  height: 32px;
+}
+.resp-sa{
+  position: absolute;
+  top: 325px;
+  left: 160px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 38px;
+  height: 26px;
+}
+.resp-gt{
+  position: absolute;
+  top: 374px;
+  left: 184px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 26px;
+  height: 38px;
+}
+.resp-zz{
+  position: absolute;
+  top: 18px;
+  left: 282px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 38px;
+  height: 26px;
+}
+.resp-zk{
+  position: absolute;
+  top: 325px;
+  left: 197px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 38px;
+  height: 26px;
+}
+.resp-ml{
+  position: absolute;
+  top: 349px;
+  left: 197px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 38px;
+  height: 26px;
+}
+.resp-wzd{
+  position: absolute;
+  top: 300px;
+  left: 0px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 38px;
+  height: 26px;
+}
+.alert{
+  height: 505px;
+  width: 468px;
+  position: absolute;
+  display: none;
+}
+.close{
+  position: absolute;
+  left: 430px;
+}
+.tooltip {
+    position: relative;
+    z-index: 22;
+}
