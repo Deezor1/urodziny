@@ -125,17 +125,12 @@ a:hover, a:focus{
   width: 26px;
   height: 26px;
 }
-.alert{
-  height: 505px;
-  width: 468px;
+.resp-am{
   position: absolute;
-  display: none;
-}
-.close{
-  position: absolute;
-  left: 430px;
-}
-.tooltip {
-    position: relative;
-    z-index: 22;
+  top: 350px;
+  left: 37px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 26px;
+  height: 37px;
 }
