@@ -170,3 +170,12 @@ a:hover, a:active{
   width: 26px;
   height: 26px;
 }
+.resp-ob{
+  position: absolute;
+  top: 153px;
+  left: 320px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 25px;
+  height: 26px;
+}
