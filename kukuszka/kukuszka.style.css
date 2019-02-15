@@ -179,3 +179,12 @@ a:hover, a:active{
   width: 25px;
   height: 26px;
 }
+.resp-swk{
+  position: absolute;
+  top: 276px;
+  left: 368px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 26px;
+  height: 38px;
+}
