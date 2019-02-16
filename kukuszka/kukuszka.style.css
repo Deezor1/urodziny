@@ -206,3 +206,12 @@ a:hover, a:active{
   width: 25px;
   height: 38px;
 }
+.resp-m{
+  position: absolute;
+  top: 202px;
+  left: 344px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 25px;
+  height: 26px;
+}
