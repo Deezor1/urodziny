@@ -215,3 +215,12 @@ a:hover, a:active{
   width: 25px;
   height: 26px;
 }
+.resp-n{
+  position: absolute;
+  top: 362px;
+  left: 374px;
+  background-color: rgba(255,0,0,.7);
+  border: 1px solid black;
+  width: 39px;
+  height: 26px;
+}
